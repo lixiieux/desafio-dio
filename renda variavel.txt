@@ -1,0 +1,7 @@
+Ações: É um papel que representa o menor pedaço de uma empresa que decidiu oferecer sociedade aos investidores. Assim, quem adquire uma ação se torna sócio de uma empresa. A ação é negociada na Bolsa, sendo que seu valor pode subir ou cair de acordo com o interesse dos investidores. 
+Fundos de ações: Fundos de investimento que aplicam principalmente em ações. O valor das cotas do fundo sobe ou cai de acordo com esses ativos - ações e outros.
+ Fundos multimercados: Fundos de investimento que investem em ações e outros ativos que têm renda variáve
+l. Ouro: O metal negociado por meio de contratos na Bolsa ou mesmo o ativo físico, comprado por exemplo em gramas, tem sua cotação variável,podendo se valorizar ou se desvalorizar conforme as condições de mercado.
+ Câmbio: Investimentos em moedas, como dólar, euro ou libra, são aplicações de renda variável. Fundos de investimento que aplicam nesses ativos também são renda variável.
+ Derivativos: São contratos negociados em Bolsa. O valor desse contrato depende de um outro ativo, que pode ser físico (como uma ação de empresa, o ouro, o café), ou financeiro, como índice da Bolsa ou uma taxa de juros. 
+fonte uol

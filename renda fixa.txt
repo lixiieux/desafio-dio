@@ -1,0 +1,5 @@
+Poupança: É a aplicação mais popular do país. É fácil de aplicar, sacar e não paga Imposto de Renda. O rendimento é mensal, sendo atualizado sempre na data de abertura. 
+Tesouro Direto (títulos do governo): Nessa aplicação o emissor é o governo federal. Há títulos prefixados, como o Tesouro Prefixado, e títulos pós-fixados, como o Tesouro Selic ou o Tesouro IPCA+. 
+CDBs e RDBs: São exemplos de aplicações de renda fixa em títulos de bancos. Debêntures e Notas Promissórias: são exemplos de aplicações em títulos de renda fixa de empresas.
+ LCIs e LCAs: Também é como emprestar dinheiro para o banco em troca de uma taxa de juros (o rendimento do título)
+. Fundos de investimento:É possível aplicar em renda fixa por meio de fundos de investimento. Da mesma forma que os ativos de renda fixa se dividem em prefixados e pós-fixados, os fundos de investimento renda fixa também se dividem nessas duas categorias
